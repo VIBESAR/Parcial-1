@@ -1,0 +1,15 @@
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\bin\Debug\net8.0\Ejercicio 4 Parcial.exe
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\bin\Debug\net8.0\Ejercicio 4 Parcial.deps.json
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\bin\Debug\net8.0\Ejercicio 4 Parcial.runtimeconfig.json
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\bin\Debug\net8.0\Ejercicio 4 Parcial.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\bin\Debug\net8.0\Ejercicio 4 Parcial.pdb
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\Ejercicio 4 Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\Ejercicio 4 Parcial.AssemblyInfoInputs.cache
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\Ejercicio 4 Parcial.AssemblyInfo.cs
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\Ejercicio 4 Parcial.csproj.CoreCompileInputs.cache
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\Ejercicio 4 Parcial.sourcelink.json
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\Ejercicio 4 Parcial.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\refint\Ejercicio 4 Parcial.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\Ejercicio 4 Parcial.pdb
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\Ejercicio 4 Parcial.genruntimeconfig.cache
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\Ejercicio 4 Parcial\Ejercicio 4 Parcial\obj\Debug\net8.0\ref\Ejercicio 4 Parcial.dll
