@@ -1,0 +1,29 @@
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.AssemblyInfoInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.AssemblyInfo.cs
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.sourcelink.json
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.exe
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.deps.json
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.runtimeconfig.json
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.pdb
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\refint\EJEMPLO PARCIAL.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.pdb
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.genruntimeconfig.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\ref\EJEMPLO PARCIAL.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.AssemblyInfoInputs.cache
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.AssemblyInfo.cs
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\refint\EJEMPLO PARCIAL.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.pdb
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.exe
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.deps.json
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.runtimeconfig.json
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\bin\Debug\net8.0\EJEMPLO PARCIAL.pdb
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\EJEMPLO PARCIAL.genruntimeconfig.cache
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJEMPLO PARCIAL\EJEMPLO PARCIAL\obj\Debug\net8.0\ref\EJEMPLO PARCIAL.dll

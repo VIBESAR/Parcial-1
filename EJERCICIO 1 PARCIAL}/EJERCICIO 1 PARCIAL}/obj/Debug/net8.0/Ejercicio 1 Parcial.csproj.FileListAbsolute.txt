@@ -1,0 +1,14 @@
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\bin\Debug\net8.0\Ejercicio 1 Parcial.exe
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\bin\Debug\net8.0\Ejercicio 1 Parcial.deps.json
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\bin\Debug\net8.0\Ejercicio 1 Parcial.runtimeconfig.json
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\bin\Debug\net8.0\Ejercicio 1 Parcial.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\bin\Debug\net8.0\Ejercicio 1 Parcial.pdb
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\obj\Debug\net8.0\Ejercicio 1 Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\obj\Debug\net8.0\Ejercicio 1 Parcial.AssemblyInfoInputs.cache
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\obj\Debug\net8.0\Ejercicio 1 Parcial.AssemblyInfo.cs
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\obj\Debug\net8.0\Ejercicio 1 Parcial.csproj.CoreCompileInputs.cache
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\obj\Debug\net8.0\Ejercicio 1 Parcial.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\obj\Debug\net8.0\refint\Ejercicio 1 Parcial.dll
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\obj\Debug\net8.0\Ejercicio 1 Parcial.pdb
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\obj\Debug\net8.0\Ejercicio 1 Parcial.genruntimeconfig.cache
+C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1 PARCIAL}\EJERCICIO 1 PARCIAL}\obj\Debug\net8.0\ref\Ejercicio 1 Parcial.dll
